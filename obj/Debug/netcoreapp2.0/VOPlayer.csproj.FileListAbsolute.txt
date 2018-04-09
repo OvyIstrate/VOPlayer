@@ -1,0 +1,10 @@
+D:\VOPlayer\bin\Debug\netcoreapp2.0\VOPlayer.deps.json
+D:\VOPlayer\bin\Debug\netcoreapp2.0\VOPlayer.runtimeconfig.json
+D:\VOPlayer\bin\Debug\netcoreapp2.0\VOPlayer.runtimeconfig.dev.json
+D:\VOPlayer\bin\Debug\netcoreapp2.0\VOPlayer.dll
+D:\VOPlayer\bin\Debug\netcoreapp2.0\VOPlayer.pdb
+D:\VOPlayer\obj\Debug\netcoreapp2.0\VOPlayer.csproj.CoreCompileInputs.cache
+D:\VOPlayer\obj\Debug\netcoreapp2.0\VOPlayer.AssemblyInfoInputs.cache
+D:\VOPlayer\obj\Debug\netcoreapp2.0\VOPlayer.AssemblyInfo.cs
+D:\VOPlayer\obj\Debug\netcoreapp2.0\VOPlayer.dll
+D:\VOPlayer\obj\Debug\netcoreapp2.0\VOPlayer.pdb
