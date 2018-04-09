@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using VOPlayer.Data;
 using VOPlayer.Repositories;
 
 namespace VOPlayer
@@ -24,7 +25,7 @@ namespace VOPlayer
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<VideoDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             
             services.AddMvc();
             
